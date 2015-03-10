@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **iOS Developers Slack** should be a safe place for everybody regardless of
+The **Android Study Group Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -44,10 +44,18 @@ If you say something that is found offensive, and you are called out on it, letâ
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
+**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
 
-* Joe Fabisevich - @mergesort
-* Mike Lazer Walker - @lazerwalker
-* Tom Catterall - @swizzlr
+* Aleksei Zakharov - @alexey
+* Ben Lee - @bl
+* Corey Latislaw - @colabug
+* Danny Roa - @dannyroa
+* Eric Butler - @codebutler
+* Grantland Chew - @grantland
+* Haley Smith - @haley
+* Jake Wharton - @jw
+* Maria Neumayer - @maria
+* Ty Smith - @ty
+* Vince Mi - @vince
 
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+*The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
