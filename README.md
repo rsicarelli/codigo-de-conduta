@@ -1,5 +1,7 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
+## Code of Conduct
+
 The **Android Study Group Slack** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
@@ -59,3 +61,9 @@ Failing to follow the community guidelines as described in this document carries
 * Vince Mi - @vince
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+## Member Nomination  
+
+To nominate someone to join the Android Study Group, fill out [this](http://bit.ly/asgform) form with your name, their name and info, and why you are nominating them.  
+
+This study group is for people actively involved in creating Android applications professionally. The admins will take into consideration the amount of time the nominee has spent developing in Android, and vote within a week on accepting the nominee. If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
