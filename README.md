@@ -66,4 +66,16 @@ Failing to follow the community guidelines as described in this document carries
 
 To nominate someone to join the Android Study Group, fill out [this](http://bit.ly/asgform) form with your name, their name and info, and why you are nominating them.  
 
-This study group is for people actively involved in creating Android applications professionally. The admins will take into consideration the amount of time the nominee has spent developing in Android, and vote within a week on accepting the nominee. If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
+This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android, and vote within a week on accepting the nominee. If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
+
+## Slack Etiquette
+
+### Slack Commands
+
+Many members of ASG have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+
+### Q & A
+
+Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
+
+When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
