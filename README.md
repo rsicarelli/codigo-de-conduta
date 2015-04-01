@@ -66,7 +66,7 @@ Failing to follow the community guidelines as described in this document carries
 
 To nominate someone to join the Android Study Group, fill out [this](http://bit.ly/asgform) form with your name, their name and info, and why you are nominating them.  
 
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android, and vote within a week on accepting the nominee. If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
+This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal), as well as the company where they work (if applicable), apps they have built, and their contributions to the Android community. They will vote within a week on accepting the nominee. If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
 
 ## Slack Etiquette
 
