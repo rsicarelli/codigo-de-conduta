@@ -1,85 +1,78 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-## Code of Conduct
+Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/Code-Of-Conduct
 
-The **Android Study Group Slack** should be a safe place for everybody regardless of
+*Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
-- gender, gender identity or gender expression 
-- sexual orientation
-- disability
-- physical appearance (including but not limited to body size)
-- race
-- age
-- religion
+--
 
-As someone who is part of this Slack, you agree that:
+## Código de Conduta
 
-* We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
-* We respect people’s boundaries and identities.
-* We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
-We avoid using offensive topics as a form of humor.
+O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independente de:
+- Gênero, identidade de gênero ou expressão de gênero
+- Orientação sexual
+- Incapacidade
+- Aparência física (incluindo mas não limitado ao tamanho do corpo
+- Raça
+- Idade
+- Religião
 
+Como alguém membro desse Slack, você concorda que:
 
-We actively work towards:
+* Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusividade.
+* Nós temos tolerância zero para assédio, perseguições ou discriminações.
+* Nós respeitamos os limites e identidades das pessoas.
+* Nós nos abstemos de usar linguajar que possa ser considerado opressivo (sistematicamente ou não), por exemplo sexista, racista, homofóbico, transfóbico, classista, que discrimine deficientes, etc. - Isso inclui (mas não se limita a) vários outros insultos.
+* Nós evitamos tópicos ofensivos como forma de humor.
 
-* Being a safe community
-* Cultivating a network of support & encouragement for each other
-* Encouraging responsible and varied forms of expression
+Nós trabalhamos ativamente em:
 
+* Ser uma comunidade segura.
+* Cultivar uma rede de suporte e encorajamento para todos.
+* Encorajar responsabilidade e várias formas de expressão.
 
-We condemn:
+Nós condenamos:
 
-* Stalking, doxxing, or publishing private information
-* Threats of harm, harassment
-* Anything that compromises people’s safety
+* Perseguição, "doxxing" (pesquisar e investigar sobre a vida de uma pessoa) ou publicações de informações privadas.
+* Ameaças de danos, assédio.
+* Qualquer coisa que comprometa a segurança das pessoas.
 
-**These things are NOT OK.**
+**Essas coisas NÃO SÃO CORRETAS**
 
-If you say something that is found offensive, and you are called out on it, let’s:
+Se você disser alguma coisa que é considerada ofensiva, é importante:
 
-* Listen without interruption.
-* Believe what the person is saying & do not attempt to disqualify what they have to say.
-* Ask for tips / help with avoiding making the offense in the future.
-* Apologize and ask forgiveness.
+* Ouvir sem interromper.
+* Acreditar no que a pessoa está dizendo e não tentar desqualificar o que ela tem a dizer.
+* Pedir dicas ou ajuda para evitar ofensas no futuro.
+* Se desculpar e pedir perdão.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Falhar em seguir as regras de comunidade descritas nesse documento acarreta em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do Slack. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você pode ser banido permanentemente.
 
+**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um admin. Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
+* **Walmyr Carvalho** - @walmyrcarvalho
+* **Lúcio Maciel** - @luciofm
+* **João Gouveia** - @joaogouveia
 
-* Aleksei Zakharov - @alexey
-* Ben Lee - @bl
-* Corey Latislaw - @colabug
-* Danny Roa - @dannyroa
-* Eric Butler - @codebutler
-* Grantland Chew - @grantland
-* Haley Smith - @haley
-* Jake Wharton - @jw
-* Maria Neumayer - @maria
-* Ty Smith - @ty
-* Vince Mi - @vince
+*A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack ao menos que isso seja resultado de uma discussão acordada entre todos.*
 
-*The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+## Como participar do grupo?
 
-## Member Nomination  
+Este grupo é voltado para profissionais que trabalhem profissionalmente com Android, isso inclui desenvolvedores e designers e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessário nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android nacionais em torno de discussões e aprendizado coletivo, portanto qualquer tópico que destoe demais disso - como spam de aplicativos piratas, dúvidas sobre ROMs ou manutenção de aparelhos Android - são cabíveis de banimento. 
 
-To nominate someone to join the Android Study Group, fill out [this](http://bit.ly/asgform) form with your name, their name and info, and why you are nominating them.  
+Portanto, entendendo o que foi dito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
+[http://androiddevbr.herokuapp.com](http://androiddevbr.herokuapp.com)
 
-If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
+## Regras de etiqueta - Slack
 
-## Slack Etiquette
+### Comandos
 
-### Slack Commands
+Muitos membros desse grupo usam o Slack durante o trabalho, ou instalados no celular, portanto os comandos `@channel` e `@everyone` foram desabilitados para usuários normais, sendo utilizados somente por moderadores.
 
-Many members of ASG have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure um admin.
 
-For tips and tricks or questions about Slack usage, check out #meta.
+### Dúvidas
 
-### Q & A
+Antes de fazer alguma pergunta, tire um tempo, procure no Google sobre a sua dúvida e procure na documentação do Android. Se depois disso você não estiver claro sobre a resposta, faça referência das fontes que você consultou parar tirar sua dúvida.
 
-Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
-
-When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
+Ao fazer perguntas, evite algum linguajar imperativo ou impaciente, estamos todos aqui para nos ajudar!
