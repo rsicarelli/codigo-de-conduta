@@ -11,7 +11,7 @@ O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas i
 - Gênero, identidade de gênero ou expressão de gênero
 - Orientação sexual
 - Incapacidade
-- Aparência física (incluindo mas não limitado ao tamanho do corpo
+- Aparência física (incluindo mas não limitado ao tamanho do corpo)
 - Raça
 - Idade
 - Religião
