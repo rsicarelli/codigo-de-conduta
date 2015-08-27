@@ -75,4 +75,4 @@ Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure
 
 Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Android, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida.
 
-Ao responder perguntas, evite qualquer linguajar imperativo ou impaciente, estamos todos aqui para nos ajudar!
+Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
