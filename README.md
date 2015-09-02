@@ -36,14 +36,14 @@ Nós condenamos:
 * Ameaças de todos os tipos e assédio.
 * Qualquer comportamento que comprometa a segurança dos demais membros.
 
-**Essas coisas NÃO SÃO CORRETAS**
+**Essas atitudes NÃO SÃO CORRETAS**
 
 Se você disser alguma coisa que é considerada ofensiva e for chamado a atenção, é importante:
 
 * Ouvir, sem interromper.
 * Acreditar no que a pessoa está dizendo e não tentar desqualificar o que ela tem a dizer.
 * Pedir dicas ou ajuda para evitar ofensas futuras.
-* Se desculpar e pedir perdão.
+* Saber se desculpar.
 
 O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do Slack. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você poderá ser banido permanentemente.
 
