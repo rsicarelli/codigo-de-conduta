@@ -12,7 +12,7 @@ O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas i
 - Orientação sexual
 - Restrições físicas
 - Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
-- Raça
+- Etnia
 - Idade
 - Religião
 
@@ -43,7 +43,7 @@ Se você disser alguma coisa que é considerada ofensiva e for chamado a atenç�
 * Ouvir, sem interromper.
 * Acreditar no que a pessoa está dizendo e não tentar desqualificar o que ela tem a dizer.
 * Pedir dicas ou ajuda para evitar ofensas futuras.
-* Saber se desculpar.
+* Entender seu erro e saber pedir desculpas.
 
 O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do Slack. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você poderá ser banido permanentemente.
 
@@ -52,6 +52,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * **Walmyr Carvalho** - @walmyrcarvalho
 * **Lúcio Maciel** - @luciofm
 * **João Gouveia** - @joaogouveia
+* **Pedro Salomão** - @ppgsalomao
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
@@ -61,7 +62,7 @@ Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui 
 
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
-[http://androiddevbr.herokuapp.com](http://androiddevbr.herokuapp.com)
+[http://slack.androiddevbr.org](http://slack.androiddevbr.org)
 
 ## Regras de etiqueta - Slack
 
