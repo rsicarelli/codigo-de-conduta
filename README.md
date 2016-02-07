@@ -53,6 +53,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 * **Lúcio Maciel** - @luciofm
 * **João Gouveia** - @joaogouveia
 * **Pedro Salomão** - @ppgsalomao
+* **David Conceição** - @daviddeveloper
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
