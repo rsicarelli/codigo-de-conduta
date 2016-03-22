@@ -47,7 +47,8 @@ Se você disser alguma coisa que é considerada ofensiva e for chamado a atenç�
 
 O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do Slack. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você poderá ser banido permanentemente.
 
-**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro, fale com um admin. Essa é a lista de moderadores e seus respectivos IDs do Slack:**
+**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin. 
+Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 * **Walmyr Carvalho** - @walmyrcarvalho
 * **Lúcio Maciel** - @luciofm
@@ -59,7 +60,10 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 
 ## Como participar do grupo?
 
-Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android nacionais em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento. Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas. Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos aparelhos também não são o foco deste grupo. É dever de todos os membros do grupo acompanhar e reportar para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
+Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android lusófonos ([falantes da língua portuguesa](https://pt.wikipedia.org/wiki/Lusofonia)) em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento. 
+Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas. 
+Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos mesmos também não são o foco deste grupo.
+É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
 
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
@@ -69,12 +73,12 @@ Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortáv
 
 ### Comandos
 
-Muitos membros desse grupo usam o Slack durante o trabalho, ou o tem instalado no celular, por tal razão os comandos `@channel` e `@everyone` foram desabilitados para usuários normais, sendo utilizados somente pelos moderadores.
+Muitos membros desse grupo usam o Slack durante o trabalho, ou o tem instalado no celular. Por isso, os comandos `@channel` e `@everyone` foram desabilitados para usuários normais, sendo utilizados somente pelos moderadores.
 
 Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure um admin.
 
 ### Dúvidas
 
-Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Android, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida.
+Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Android, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida. Enviar sua dúvida no canal mais adequado também pode facilitar a discussão e resolução.
 
 Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
