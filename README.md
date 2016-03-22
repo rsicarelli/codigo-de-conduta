@@ -73,7 +73,7 @@ Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortáv
 
 ### Comandos
 
-Muitos membros desse grupo usam o Slack durante o trabalho, ou o tem instalado no celular. Por isso, os comandos `@channel` e `@everyone` foram desabilitados para usuários normais, sendo utilizados somente pelos moderadores.
+Muitos membros desse grupo usam o Slack durante o trabalho, ou o tem instalado no celular. Por isso, os comandos `@channel` e `@everyone` foram desabilitados para usuários normais, sendo utilizados somente pelos moderadores somente quando necessário.
 
 Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure um admin.
 
