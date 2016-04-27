@@ -50,11 +50,12 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin. 
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-* **Walmyr Carvalho** - @walmyrcarvalho
-* **Lúcio Maciel** - @luciofm
-* **João Gouveia** - @joaogouveia
-* **Pedro Salomão** - @ppgsalomao
 * **David Conceição** - @daviddeveloper
+* **João Gouveia** - @joaogouveia
+* **Lúcio Maciel** - @luciofm
+* **Pedro Salomão** - @ppgsalomao
+* **Rodrigo Sicarelli** - @rodrigo.sicarelli
+* **Walmyr Carvalho** - @walmyrcarvalho
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
