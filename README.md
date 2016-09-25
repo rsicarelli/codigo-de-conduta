@@ -5,6 +5,17 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 --
 
+* [Código de Conduta](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#código-de-conduta)
+* [Como participar do grupo?](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#como-participar-do-grupo)
+* [Regras de etiqueta - Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#regras-de-etiqueta---slack)
+  * [Comandos](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#comandos)
+  * [Dúvidas](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#dúvidas)
+  * [Seja gentil](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#seja-gentil)
+  * [Responsabilidade individual](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#responsabilidade-individual)
+  * [Arquivos e links](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#arquivos-e-links)
+  * [Conhecendo o Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#conhecendo-o-slack)
+  * [Sugestões e melhorias](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#sugestões-e-melhorias)
+
 ## Código de Conduta
 
 O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
