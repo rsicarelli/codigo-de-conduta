@@ -14,6 +14,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
   * [Responsabilidade individual](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#responsabilidade-individual)
   * [Arquivos e links](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#arquivos-e-links)
   * [Canais](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#canais)
+  * [Bots e integrações](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#bots-e-integrações)
   * [Conhecendo o Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#conhecendo-o-slack)
   * [Sugestões e melhorias](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#sugestões-e-melhorias)
 
