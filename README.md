@@ -124,6 +124,16 @@ Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem
 
 O Slack permite que qualquer membro crie novos canais. O Android Dev BR possui vários canais para discussões gerais ou específicas. O objetivo de ter diversos canais é permitir que membros com interesse em determinado assunto possam conversar de maneira mais focada, além de permitir que diversas conversas ocorram em paralelo. Antes de criar um canal, porém, verifique se há interesse de outros membros em participar do canal, se não existe um canal equivalente e se o foco do canal está de acordo com o propósito maior do Android Dev BR e com o presente Código de Conduta. A equipe de Admins se reserva o direito de fechar e arquivar canais em duplicidade ou inativos por longos períodos.
 
+### Bots e integrações
+
+A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR. 
+
+Dois bots principais estão integrados ao nosso Slack:
+* [Lighthouse bot](https://www.lighthousebot.com/): Analisa automaticamente mensagens e canais para alertar a equipe de Admins possíveis infrações ao presente Código de Conduta.
+* [Slack Achive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://androiddevbr.slackarchive.io/.
+
+É obrigação de todos os membros adicionar ambos os bots aos canais privados dos quais participam através dos comandos `/invite @archivebot` e `/invite @lighthouse`. Quaisquer canais públicos que não tenham ambos os bots ferem o presente Código de Conduta e tornam o criador do canal passível de advertência.
+
 ### Conhecendo o Slack
 É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/).
 
