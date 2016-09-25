@@ -98,4 +98,12 @@ Preste atenção em seus posts para manter a comunicação agradável e interess
 
 Todas as mensagens enviadas no Slack, através de meios públicos ou privados, é de inteira responsabilidade do autor. O Android Dev BR potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
 
+### Arquivos e links
 
+O Android Dev BR não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados. 
+
+A equipe de Admins não tolerará a divulgação de arquivos ou links que:
+* Violem propriedades privadas,
+* Contenham _malware_ de qualquer tipo, incluindo mas não limitando a vírus, phishing e scams,
+* Apontem para conteúdos que violem o presente Código de Conduta.
+Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem prévio aviso, causando possíveis sanções ao membro que enviou a mensagem.
