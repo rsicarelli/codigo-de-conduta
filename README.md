@@ -83,3 +83,7 @@ Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure
 Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Android, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida. Enviar sua dúvida no canal mais adequado também pode facilitar a discussão e resolução.
 
 Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
+
+Após postar a sua dúvida, não deixe de buscar alternativas para resolver seu problema. Envie novas mensagens com atualizações e alternativas que você tentou. Caso consiga resolver seu problema por conta própria, espalhe o conhecimento que adquiriu descrevendo qual a solução encontrada.
+
+Em situação alguma repita a mesma pergunta diversas vezes. Além de gerar spam, a comunidade demonstrará muito mais interesse em ajudar quem está tentando avançar por conta própria.
