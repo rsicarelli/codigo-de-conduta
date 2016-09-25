@@ -107,3 +107,7 @@ A equipe de Admins não tolerará a divulgação de arquivos ou links que:
 * Contenham _malware_ de qualquer tipo, incluindo mas não limitando a vírus, phishing e scams,
 * Apontem para conteúdos que violem o presente Código de Conduta.
 Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem prévio aviso, causando possíveis sanções ao membro que enviou a mensagem.
+
+## Sugestões e melhorias
+
+O presente Código de Conduta é um documento vivo e que conduz nosso grupo a ser melhor e maior. Por isso, estamos abertos a comentários e ajustes que podem ser propostos através de _Pull Requests_ ou _Issues_.
