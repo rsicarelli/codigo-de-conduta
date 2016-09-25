@@ -108,6 +108,9 @@ A equipe de Admins não tolerará a divulgação de arquivos ou links que:
 * Apontem para conteúdos que violem o presente Código de Conduta.
 Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem prévio aviso, causando possíveis sanções ao membro que enviou a mensagem.
 
+### Conhecendo o Slack
+É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/).
+
 ## Sugestões e melhorias
 
 O presente Código de Conduta é um documento vivo e que conduz nosso grupo a ser melhor e maior. Por isso, estamos abertos a comentários e ajustes que podem ser propostos através de _Pull Requests_ ou _Issues_.
