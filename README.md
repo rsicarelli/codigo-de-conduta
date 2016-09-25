@@ -13,6 +13,7 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
   * [Seja gentil](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#seja-gentil)
   * [Responsabilidade individual](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#responsabilidade-individual)
   * [Arquivos e links](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#arquivos-e-links)
+  * [Canais](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#canais)
   * [Conhecendo o Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#conhecendo-o-slack)
   * [Sugestões e melhorias](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#sugestões-e-melhorias)
 
@@ -118,6 +119,10 @@ A equipe de Admins não tolerará a divulgação de arquivos ou links que:
 * Contenham _malware_ de qualquer tipo, incluindo mas não limitando a vírus, phishing e scams,
 * Apontem para conteúdos que violem o presente Código de Conduta.
 Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem prévio aviso, causando possíveis sanções ao membro que enviou a mensagem.
+
+### Canais
+
+O Slack permite que qualquer membro crie novos canais. O Android Dev BR possui vários canais para discussões gerais ou específicas. O objetivo de ter diversos canais é permitir que membros com interesse em determinado assunto possam conversar de maneira mais focada, além de permitir que diversas conversas ocorram em paralelo. Antes de criar um canal, porém, verifique se há interesse de outros membros em participar do canal, se não existe um canal equivalente e se o foco do canal está de acordo com o propósito maior do Android Dev BR e com o presente Código de Conduta. A equipe de Admins se reserva o direito de fechar e arquivar canais em duplicidade ou inativos por longos períodos.
 
 ### Conhecendo o Slack
 É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/).
