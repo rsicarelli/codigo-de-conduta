@@ -64,9 +64,7 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 * **David Conceição** - @daviddeveloper
-* **João Gouveia** - @joaogouveia
 * **Lúcio Maciel** - @luciofm
-* **Pedro Salomão** - @ppgsalomao
 * **Rodrigo Sicarelli** - @rodrigo.sicarelli
 * **Walmyr Carvalho** - @walmyrcarvalho
 
