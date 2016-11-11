@@ -5,6 +5,19 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 --
 
+* [Código de Conduta](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#código-de-conduta)
+* [Como participar do grupo?](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#como-participar-do-grupo)
+* [Regras de etiqueta - Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#regras-de-etiqueta---slack)
+  * [Comandos](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#comandos)
+  * [Dúvidas](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#dúvidas)
+  * [Seja gentil](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#seja-gentil)
+  * [Responsabilidade individual](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#responsabilidade-individual)
+  * [Arquivos e links](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#arquivos-e-links)
+  * [Canais](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#canais)
+  * [Bots e integrações](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#bots-e-integrações)
+  * [Conhecendo o Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#conhecendo-o-slack)
+  * [Sugestões e melhorias](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#sugestões-e-melhorias)
+
 ## Código de Conduta
 
 O **Slack Android Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
@@ -81,3 +94,49 @@ Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure
 Antes de fazer alguma pergunta, tire um tempo e pesquise no Google, bem como na documentação do Android, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida. Enviar sua dúvida no canal mais adequado também pode facilitar a discussão e resolução.
 
 Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
+
+Após postar a sua dúvida, não deixe de buscar alternativas para resolver seu problema. Envie novas mensagens com atualizações e alternativas que você tentou. Caso consiga resolver seu problema por conta própria, espalhe o conhecimento que adquiriu descrevendo qual a solução encontrada.
+
+Em situação alguma repita a mesma pergunta diversas vezes. Além de gerar spam, a comunidade demonstrará muito mais interesse em ajudar quem está tentando avançar por conta própria.
+
+### Seja gentil
+
+Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com larga experiência em desenvolvimento de aplicativos, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. E é isso que faz o Android Dev BR um lugar excelente para aprender e se desenvolver. 
+
+Preste atenção em seus posts para manter a comunicação agradável e interessante para todos.
+
+### Responsabilidade individual
+
+Todas as mensagens enviadas no Slack, através de meios públicos ou privados, são de inteira responsabilidade do autor. O Android Dev BR potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
+O AndroidDevBR não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas. Ao enviar trechos de código, tome cuidado com para não enviar credenciais (endpoints, chaves de API e afins). Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
+
+### Arquivos e links
+
+O Android Dev BR não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados. 
+
+A equipe de Admins não tolerará a divulgação de arquivos ou links que:
+* Violem propriedades privadas,
+* Contenham _malware_ de qualquer tipo, incluindo mas não limitando a vírus, phishing e scams,
+* Apontem para conteúdos que violem o presente Código de Conduta.
+Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem prévio aviso, causando possíveis sanções ao membro que enviou a mensagem.
+
+### Canais
+
+O Slack permite que qualquer membro crie novos canais. O Android Dev BR possui vários canais para discussões gerais ou específicas. O objetivo de ter diversos canais é permitir que membros com interesse em determinado assunto possam conversar de maneira mais focada, além de permitir que diversas conversas ocorram em paralelo. Antes de criar um canal, porém, verifique se há interesse de outros membros em participar do canal, se não existe um canal equivalente e se o foco do canal está de acordo com o propósito maior do Android Dev BR e com o presente Código de Conduta. A equipe de Admins se reserva o direito de fechar e arquivar canais em duplicidade ou inativos por longos períodos.
+
+### Bots e integrações
+
+A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR. 
+
+Dois bots principais estão integrados ao nosso Slack:
+* [Lighthouse bot](https://www.lighthousebot.com/): Analisa automaticamente mensagens e canais para alertar a equipe de Admins possíveis infrações ao presente Código de Conduta.
+* [Slack Achive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://androiddevbr.slackarchive.io/.
+
+É obrigação de todos os membros adicionar ambos os bots aos canais privados dos quais participam através dos comandos `/invite @archivebot` e `/invite @lighthouse`. Quaisquer canais públicos que não tenham ambos os bots ferem o presente Código de Conduta e tornam o criador do canal passível de advertência.
+
+### Conhecendo o Slack
+É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/).
+
+## Sugestões e melhorias
+
+O presente Código de Conduta é um documento vivo e que conduz nosso grupo a ser melhor e maior. Por isso, estamos abertos a comentários e ajustes que podem ser propostos através de _Pull Requests_ ou _Issues_.
