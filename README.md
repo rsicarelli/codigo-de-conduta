@@ -107,7 +107,7 @@ Preste atenção em seus posts para manter a comunicação agradável e interess
 
 ### Responsabilidade individual
 
-Todas as mensagens enviadas no Slack, através de meios públicos ou privados, é de inteira responsabilidade do autor. O Android Dev BR potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta.Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
+Todas as mensagens enviadas no Slack, através de meios públicos ou privados, são de inteira responsabilidade do autor. O Android Dev BR potencializa a comunicação entre desenvolvedores do Brasil e do Mundo, porém não se responsabiliza por informações ou opiniões publicadas. Todos os membros tem liberdade para expor informações e opiniões que julgarem mais adequadas, desde que não atentem contra a legislação brasileira ou contra este Código de Conduta. Quaisquer medidas em torno de mensagens devem ser aplicadas ao autor(a) da mensagem.
 O AndroidDevBR não se responsabiliza por informações sensíveis compartilhadas nos canais ou mensagens privadas. Ao enviar trechos de código, tome cuidado com para não enviar credenciais (endpoints, chaves de API e afins). Caso alguma dessas informações for compartilhada, avise imediatamente qualquer um dos administradores para que a mensagem seja apagada.
 
 ### Arquivos e links
