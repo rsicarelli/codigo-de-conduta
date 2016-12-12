@@ -64,7 +64,6 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 * **David Conceição** - @daviddeveloper
-* **Lúcio Maciel** - @luciofm
 * **Rodrigo Sicarelli** - @rodrigo.sicarelli
 * **Walmyr Carvalho** - @walmyrcarvalho
 
@@ -140,3 +139,22 @@ Dois bots principais estão integrados ao nosso Slack:
 ## Sugestões e melhorias
 
 O presente Código de Conduta é um documento vivo e que conduz nosso grupo a ser melhor e maior. Por isso, estamos abertos a comentários e ajustes que podem ser propostos através de _Pull Requests_ ou _Issues_.
+
+## Update 12/12/2016
+
+**Moderação**
+
+A partir do dia 09 de Dezembro de 2016, a administração do Android Dev BR expandiu as atividades e criou uma divisão de **moderação**. Essa nova divisão irá contar com membros do canal que se interessam em ajudar a nossa comunidade de alguma maneira.
+
+Atualmente, possuímos duas modalidades:
+
+**Slack**
+Os moderadores do Slack são responsáveis pela organização do canal. Atualmente, os seguintes membros fazem parte:
+
+* **Eduardo Bonet** - @ebonet
+* **Douglas Drumond** - @douglasdrumond
+
+**Conteúdo**
+Os moderadores de conteúdo são responsáveis por diversificar e enriquecer o conteúdo em nossa comunidade. Atualmente, os seguintes membros fazem parte:
+
+* **Marcello Galhardo** - @marcellogalhardo
